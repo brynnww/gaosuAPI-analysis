@@ -236,7 +236,7 @@ async def generate_report(self, start_date: str, end_date: str) -> ReportData:
 
 ### 📡 数据来源详解
 
-#### **外部API接口** (http://116.182.4.67:8088/gssfApi2/v1/api)
+#### **外部API接口**
 
 系统调用以下6个API接口获取数据：
 
